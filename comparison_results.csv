@@ -1,0 +1,3 @@
+Model,Avg Inference Time (s),Total Detections,Unique Classes Detected
+YOLOv5n,0.2389,75,18
+YOLOv5s,0.1144,88,17

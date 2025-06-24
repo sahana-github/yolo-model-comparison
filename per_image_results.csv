@@ -1,0 +1,21 @@
+Image,Model,Inference Time (s),Detection Count,Detected Classes
+A kitchen with items.png,YOLOv5n,1.8727,10,"45, 45, 39, 39, 60, 44, 45, 45, 44, 45"
+Airplane at airport.png,YOLOv5n,0.0669,8,"4, 4, 4, 4, 7, 4, 7, 7"
+Animals.png,YOLOv5n,0.0668,4,"14, 14, 14, 19"
+Dog and cat together.png,YOLOv5n,0.0582,3,"16, 16, 15"
+Group of sports players.png,YOLOv5n,0.0602,6,"32, 0, 0, 0, 0, 0"
+People walking.png,YOLOv5n,0.0558,4,"0, 0, 0, 36"
+Person on bicycle.png,YOLOv5n,0.0455,6,"0, 0, 36, 1, 36, 36"
+Person with backpack.png,YOLOv5n,0.0514,1,0
+shopping mall crowd.png,YOLOv5n,0.0511,16,"0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 24, 0"
+Street with cars.png,YOLOv5n,0.06,17,"2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 9, 2, 0, 9, 9"
+A kitchen with items.png,YOLOv5s,0.218,12,"45, 45, 45, 44, 39, 45, 39, 41, 60, 44, 44, 39"
+Airplane at airport.png,YOLOv5s,0.1123,11,"4, 4, 4, 4, 4, 7, 4, 7, 4, 7, 4"
+Animals.png,YOLOv5s,0.1043,0,
+Dog and cat together.png,YOLOv5s,0.1057,2,"16, 15"
+Group of sports players.png,YOLOv5s,0.0859,6,"32, 0, 0, 0, 0, 0"
+People walking.png,YOLOv5s,0.1205,4,"0, 0, 0, 13"
+Person on bicycle.png,YOLOv5s,0.0938,6,"0, 0, 1, 1, 0, 1"
+Person with backpack.png,YOLOv5s,0.111,2,"0, 24"
+shopping mall crowd.png,YOLOv5s,0.0854,22,"0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 26, 26, 26, 26, 26, 0, 0, 0"
+Street with cars.png,YOLOv5s,0.1071,23,"2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 9, 2, 9, 0, 2, 2, 2, 9"
